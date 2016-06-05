@@ -1,0 +1,108 @@
+.metro-panel .space.big.work-box > div {
+  padding-bottom: 0;
+}
+
+.projects-slider {
+  margin: -10px -10px 0px -15px;
+  position: relative;
+}
+
+.projects-slider .rslides,
+.project-images .rslides {
+  overflow: hidden;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+.projects-slider .rslides li {
+  max-width: 400px;
+  min-height: 320px;
+  height: 320px;
+}
+.projects-slider .rslides_nav,
+.project-images .rslides_nav {
+  left: 6px;
+  position: absolute;
+  top: 45%;
+  z-index: 4;
+  opacity: .03;
+  transition: all 0.5s ease-out 0s;
+}
+.projects-slider:hover .rslides_nav,
+.project-images:hover .rslides_nav {
+  opacity: .9;
+}  
+.projects-slider .rslides_nav.next,  
+.project-images .rslides_nav.next {
+  right: 6px;
+  left: auto;
+} 
+.projects-slider .rslides_nav.next:before,
+.project-images .rslides_nav.next:before {
+  content: "";
+  font-family: FontAwesome
+}
+.projects-slider .rslides_nav.next:before,
+.projects-slider .rslides_nav.prev:before,
+.project-images .rslides_nav.next:before,
+.project-images .rslides_nav.prev:before {
+  border: 2px solid #FFF;
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  font-family: FontAwesome;
+  font-size: 27px;
+  font-weight: bold;
+  height: 32px;
+  width: 32px;
+}
+.projects-slider .rslides_nav.next:before,
+.project-images .rslides_nav.next:before {
+  content: "";
+}
+.projects-slider .rslides_nav.prev:before,
+.project-images .rslides_nav.prev:before {
+  content: "";
+}  
+
+
+.project-images .rslides_nav.next,
+.project-images .rslides_nav.prev {
+  padding: 0 10px 0;
+  text-align: center;
+}
+
+.project-images ul li {
+  margin: 0;
+} 
+
+.project-images ul {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.project-images ul li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.project-images ul li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.project-images ul img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }

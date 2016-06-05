@@ -1,0 +1,78 @@
+/****************************************   Custom Style   **************************************/
+
+.color-1 {
+background: #00bf03;
+}
+.color-2 {
+background: #8224e3;
+}
+.color-3 {
+background: #008cbf;
+}
+.color-4 {
+background: #2a36a8;
+}
+.color-5 {
+background: #0f1f89;
+}
+.color-6 {
+background: #009bdd;
+}
+.color-7 {
+background: #16b9f4;
+}
+.color-8 {
+background: #8224e3;
+}
+.color-9 {
+background: #ac193d;
+}
+.color-10 {
+background: #ffc902;
+}
+.color-11 {
+background: #f26e02;
+}
+.color-12 {
+background: #d700e2;
+}
+.page-section-117,
+.menu-list li a .color--117 {
+background: #8224e3;
+color: #ffffff;
+}
+.page-section-63,
+.menu-list li a .color--63 {
+background: #3495F3;
+color: #ffffff;
+}
+.page-section-57,
+.menu-list li a .color--57 {
+background: #3495F3;
+color: #ffffff;
+}
+.page-section-60,
+.menu-list li a .color--60 {
+background: #29bf00;
+color: #ffffff;
+}
+.page-section-41,
+.menu-list li a .color--41 {
+background: #8224e3;
+color: #ffffff;
+}
+.page-section-21,
+.menu-list li a .color--21 {
+background: #64d613;
+color: #ffffff;
+}
+.page-section.home-page {
+background: url(assets/images/bg-3.html) #3495F3;
+color: #ffffff;
+background-size: cover;
+}
+#spaces-main .site-name a,
+#spaces-main .showMenu,
+#spaces-main .showMenu a {
+	color: #ffffff;
+}

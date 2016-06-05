@@ -1,0 +1,195 @@
+
+@media only screen and (max-width: 768px) {
+  
+  body .site-name {
+    font-size: 2em;
+    text-align: center;
+  } 
+  .row.metro-panel {
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+    
+  .vertical-menu {
+    width: 300px;
+  }
+  .vertical-menu h3 {
+    padding: 20px 0 20px 15px;
+  }
+  .vertical-menu a {
+    padding: 6px 38px;
+  } 
+  .row.metro-panel {
+    margin-top: 30px;
+  } 
+  .menu-row h2 {
+    font-size: 2em; 
+  }
+  .menu-button {
+    padding-top: 0;
+    padding-bottom: 10px;
+    text-align: center !important;
+  }
+  .page-section {
+    padding: 0 5px;
+  }
+  .page-sub-title {
+    margin: 18px 0 10px;
+  }
+  .page-sub-title, .page-sub-title p {
+    font-size: 1.12em;
+    line-height: 1.5em;
+    text-align: left;
+  }
+  .blog-page article .user-picture {
+    top: 100px;
+  }
+} 
+
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+  .big .box-title.anim {
+    background: none;
+    font-size: 2em;
+    left: auto;
+    right: 0;
+    text-align: center;
+    top: 130px;
+    width: 50%;
+  }
+}
+
+
+
+
+
+ 
+@media only screen and (max-width: 480px) {
+  article.node-blog .node-title, article.node-blog .body, 
+  article.node-blog .posted, 
+  article.node-blog .links, 
+  article.node-blog .comment-wrapper, 
+  article.node-blog .date, 
+  article.node-blog .field-name-field-blog-tags {
+    padding: 0 5px;
+  }
+  .metro-panel .space.twitter-feed-box div {
+    padding: 5px;
+  }
+  i.fa-4x {
+    font-size: 3em;
+  }
+  
+  .vertical-menu {
+    width: 300px;
+  }
+  .vertical-menu h3 {
+    padding: 20px 0 20px 15px;
+  }
+  .vertical-menu a {
+    padding: 6px 15px;
+  } 
+  .row.metro-panel {
+    margin-top: 30px;
+  }
+  .vertical-menu form .container-inline {
+    margin: 0 10px 0 15px;
+    position: relative;
+  }
+}  
+/* Styles for screens that are atleast 768px; */
+@media only screen and (min-width: 768px) {
+  .row {
+    max-width: 83.571em;
+  }
+  .l-main .main {
+    padding-right: 1.2em;
+    width: 74%
+  }
+  .l-main .sidebar-second {
+    padding-left: 0;
+    width: 26%;
+  }
+}  
+
+@media only screen and (max-width: 995px) {
+  .events_title {
+    float: left;
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.3em;
+    margin-left: -23px;
+    margin-top: -5px;
+    max-width: 145px;
+    text-align: left;
+  }
+  .events_day {
+    float: right;
+    font-size: 3em;
+    line-height: 0.9em;
+    margin: 0 -6px 0 0;
+    padding-right: 0;
+  }
+}
+
+
+
+/* Slider */
+@media only screen and (max-width: 1045px) {
+  .projects-slider .rslides li img {
+    height: 100%;
+    width: auto;
+  }
+  .metro-panel .space.medium > div {
+    min-height: 150px;
+  }
+  .events_day {
+    padding-right: 0;
+  }
+  
+}
+@media only screen and (max-width: 995px) and (min-width: 768px) {
+  .social-box .box {
+      display: inline-block;
+      padding: 42px;
+      width: 48.4225%;
+  }
+  .metro-panel .space > div {
+    min-height: 120px;
+  }
+  .metro-panel .space.big > div {
+    max-height: 260px;
+    min-height: 260px;
+  }
+  i.fa-4x {
+    font-size: 3em;
+  }
+  .metro-panel .space.twitter-feed-box > div,
+  .metro-panel .space.next-event-box > div,
+  .metro-panel .space.medium > div {
+    min-height: 120px;
+  }
+  .metro-panel .space.testimonials-box > div {
+    padding: 0;
+    overflow: hidden;
+  }
+  .wd-tweets {
+    padding: 0;
+    margin: 0;
+  }
+  .wd-tweets ul {
+    margin: 0;
+  }
+  
+}
+@media only screen and (max-width: 800px) and (min-width: 768px) {
+  
+  .metro-panel .space > div,
+  .metro-panel .space.featured.blog-box > div {
+    min-height: 110px;
+    padding-top: 0;
+  }
+  .metro-panel .space.big > div {
+    max-height: 250px;
+    min-height: 250px;
+  }
+}
