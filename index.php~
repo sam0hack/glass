@@ -48,7 +48,7 @@ $controller  =  new Controller();
                                     $count=0;
                                     foreach ($currentFolders as $CF){
 
-                                        echo "<span class='fa-folder fa text-left text-justify'><a class='ex3' id='iproject' target='_blank' href='/$CF'> $CF </a></span>&nbsp;&nbsp;&nbsp;";
+                                        echo "<span class='fa-folder fa text-left text-justify'><a class='ex3' id='iproject' target='_blank' href='/$CF'>$CF</a></span>&nbsp;&nbsp;&nbsp;";
 
                                     $count++;
                                     }
@@ -150,7 +150,7 @@ $controller  =  new Controller();
                 <div class="clearfix"></div>
                 <div class="copyright">© <?php echo date('Y');?>
 
-                    Made  <span class='fa-heart-o fa'></span> and PHP   <br> By <br> <a target="_blank" href="http://ilmtechnosolutions.com"> ILM Techno Solutions</a>
+                    Made  <span class='fa-heart-o fa'></span> and PHP   <br> By <br>  ILM Techno Solution
                 </div>
             </div>
         </div>
