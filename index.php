@@ -99,7 +99,7 @@ $controller  =  new Controller();
                                         <br>
                                         PHP Version <strong><?php echo $controller->php_details()['version']; ?></strong>
                                         <br>
-                                        PHP sapi name <strong><?php echo $controller->php_details()['sapi']; ?></strong>
+                                        Sapi name <strong><?php echo $controller->php_details()['sapi']; ?></strong>
 
                                         <br>
                                     </div>
