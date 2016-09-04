@@ -1,4 +1,4 @@
-SamLocalhost
+Glass
 ===================
 
 Beautiful and elegant localhost for web developers 
@@ -9,7 +9,7 @@ Beautiful and elegant localhost for web developers
 Setup - Requirements
 -------------
 
-SamLocalhost is very easy to setup if you already have php mysql and phpmyadmin installed in your system you just need to add `$cfg['AllowThirdPartyFraming'] = true;` code into your phpmyadmin's  config.inc.php file.   
+Glass is very easy to setup if you already have php mysql and phpmyadmin installed in your system you just need to add `$cfg['AllowThirdPartyFraming'] = true;` code into your phpmyadmin's  config.inc.php file.   
 
 > **Requirements:**
 
