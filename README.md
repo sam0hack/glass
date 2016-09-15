@@ -28,9 +28,9 @@ $cfg['AllowThirdPartyFraming'] = true;
 
 > **Screenshots:** 
 
-![mac](https://lh5.googleusercontent.com/y3PjwmfOfQdamRzALvxuJOLrRhp0nO-OXj6Yw3y-_Kk0FVConnnxFe2U9mAexwdgIt1kZzBuNdMmJC8=w1366-h615-rw "Mac.png")
+![mac](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/14333728_10205693047284919_8321158165107608196_n.jpg?oh=a5cc56eb2ae6a2006ba3b76add272f94&oe=5877C243&__gda__=1480541990_fe67be4cf655fa27199c0b13c292cfbd "Mac.png")
 
-![mac](https://lh3.googleusercontent.com/psdFv9VGfJeMY7qbJuVVV9JqEdpU5iRhHpc0NzcMVwNI8x5egeYzrCZJg0gffGy8AXwTsUFQ3NOP730=w1366-h615-rw "Mac2.png")
+![mac](https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14368914_10205693047004912_8163595866556663183_n.jpg?oh=7f2a5e9f5fa35ed59bfcb9f28b47a4e5&oe=5873FAF0 "Mac2.png")
 
-![ipad](https://lh5.googleusercontent.com/BUmjZKl_zv0uQS6a0USgsM8gqZdzyRUuuKrh0ViAaJejy4e3j07Ixj9sFj2bS6jSO2AhsU1izaqdw6A=w1366-h615-rw "Ipad.png")
+![ipad](https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/14368625_10205693047604927_8582918556283819997_n.jpg?oh=27857437ec46f2ecc46653e4965c81a2&oe=58863CBA "Ipad.png")
 
