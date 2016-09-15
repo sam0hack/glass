@@ -26,7 +26,11 @@ Glass is very easy to setup if you already have php mysql and phpmyadmin install
 $cfg['AllowThirdPartyFraming'] = true;
 ```
 
-> **Screenshot:** 
+> **Screenshots:** 
 
-![enter image description here](https://lh5.googleusercontent.com/y3PjwmfOfQdamRzALvxuJOLrRhp0nO-OXj6Yw3y-_Kk0FVConnnxFe2U9mAexwdgIt1kZzBuNdMmJC8=w1366-h615-rw "Selection_002.png")
+![mac](https://lh5.googleusercontent.com/y3PjwmfOfQdamRzALvxuJOLrRhp0nO-OXj6Yw3y-_Kk0FVConnnxFe2U9mAexwdgIt1kZzBuNdMmJC8=w1366-h615-rw "Mac.png")
+
+![mac](https://lh3.googleusercontent.com/psdFv9VGfJeMY7qbJuVVV9JqEdpU5iRhHpc0NzcMVwNI8x5egeYzrCZJg0gffGy8AXwTsUFQ3NOP730=w1366-h615-rw "Mac2.png")
+
+![ipad](https://lh5.googleusercontent.com/BUmjZKl_zv0uQS6a0USgsM8gqZdzyRUuuKrh0ViAaJejy4e3j07Ixj9sFj2bS6jSO2AhsU1izaqdw6A=w1366-h615-rw "Ipad.png")
 
