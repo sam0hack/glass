@@ -1,12 +1,12 @@
 <?php
-require_once 'SamLocalhost/config.php';
-require_once 'SamLocalhost/Graphics/head.php';
+require_once 'config.php';
+require_once 'Libs/Graphics/head.php';
 $controller  =  new Controller();
 
 
 ?>
 
-<div id="spaces-main" class="pt-perspective">
+<div  id="spaces-main" class="pt-perspective">
 
 
 
@@ -17,7 +17,7 @@ $controller  =  new Controller();
                 <div class="row menu-row">
                     <div class="large-12 columns">
                         <h1 class="site-name">
-                            <a href="#">Sam Localhost</a>
+                            <a href="#">Glass</a>
                         </h1>
 
                         <div class="pull-right" id="hexClock">
@@ -155,10 +155,10 @@ $controller  =  new Controller();
             </div>
         </div>
 
-<?php require_once 'SamLocalhost/Graphics/footer.php'; ?>
+<?php require_once 'Libs/Graphics/footer.php'; ?>
     </section>
 
 </div>
 
 
-<?php require_once 'Graphics/footer.php';?>
+<?php require_once 'Libs/footer.php';?>

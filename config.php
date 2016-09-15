@@ -7,9 +7,3 @@
  */
 session_start();
 require_once 'Libs/Controller.php';
-
-
-
-
-
-?>
