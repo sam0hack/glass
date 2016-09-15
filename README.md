@@ -28,5 +28,5 @@ $cfg['AllowThirdPartyFraming'] = true;
 
 > **Screenshot:** 
 
-![enter image description here](https://drive.google.com/open?id=0B6Q9btduOt7AQ0loOUFvZW9zQjg "Selection_002.png")
+![enter image description here](https://lh5.googleusercontent.com/y3PjwmfOfQdamRzALvxuJOLrRhp0nO-OXj6Yw3y-_Kk0FVConnnxFe2U9mAexwdgIt1kZzBuNdMmJC8=w1366-h615-rw "Selection_002.png")
 
