@@ -1,5 +1,6 @@
 <?php
-require_once 'config.php';
+session_start();
+require_once 'Libs/Controller.php';
 require_once 'Libs/Graphics/head.php';
 $controller  =  new Controller();
 

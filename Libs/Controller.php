@@ -15,7 +15,7 @@ class Controller {
         $Directory_list = array();
         while ($readDir=readdir($open_dir)) {
 
-            if (is_dir($readDir) AND $readDir!='.' AND $readDir!='..' AND $readDir!='SamLocalhost' ) {
+            if (is_dir($readDir) AND $readDir!='.' AND $readDir!='..' AND $readDir!='Libs' ) {
 
                 $Directory_list[] = $readDir;
 
